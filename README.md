@@ -9,3 +9,6 @@ Procedural Planets in WebGL using three.js
 * Run `npm install`
 * Run `npm run dev`
 * Open http://localhost:8080
+
+![alt text](1.png)
+![alt text](2.png)
